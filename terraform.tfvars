@@ -1,4 +1,4 @@
-deployment_name = "mk-tf"
+deployment_name = "mk"
 aws_region      = "ap-southeast-1"
 
 # --- Common --- #
